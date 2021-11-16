@@ -1,6 +1,16 @@
 <br/>
 <h2 align="center">Hi  :wave: and welcome on my GitHub :shipit: </h2>
 
+<p> :heavy_check_mark: Interested in :wrench: Business Analysis & :chart_with_upwards_trend: :bar_chart: :chart_with_downwards_trend: Data Science Methodologies.</p>
+
+<h2>:paperclip: Projects</h2>
+
+
+
+
+
+
+<h2>:muscle: Activities</h2>
 
 <p>:small_orange_diamond: Currently learning 
    <a href="">
@@ -28,7 +38,7 @@
 		<img src="https://img.shields.io/badge/-Flutter-blue?style=plastic&logo=flutter" />
 	</a>	
 
-<p>:small_orange_diamond: Looking to expand my portfolio and collaborate on something new :twisted_rightwards_arrows:</p>
+<p>:small_orange_diamond: Looking to expand my portfolio and collaborate :dancers:</p>
 <h2>:fork_and_knife: Tools</h2>
 <p>:hamburger:
   <a href="">
@@ -38,12 +48,22 @@
 		<img src="https://img.shields.io/badge/Tableau-E97627?style=plastic&logo=Tableau&logoColor=white" />
 	</a>
   <a href="">
+		<img src="https://img.shields.io/badge/DataStudio-blue?style=plastic&logo=Datastudio&logoColor=white" />
+	</a>
+  <a href="">
 		<img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=plastic&logo=google%20analytics&logoColor=white" />
 	</a>
 </p>
 <p>:tropical_drink:
   <a href="">
 		<img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white" />
+	</a>
+  <a href="">
+		<img src="https://img.shields.io/badge/Wireframe-grey?style=plastic&logo=wireframe" />
+	</a>
+	
+   <a href="">
+		<img src="https://img.shields.io/badge/Balsamiq-df678c?style=plastic&logo=balsamiq" />
 	</a>
 	  
   <a href="">
