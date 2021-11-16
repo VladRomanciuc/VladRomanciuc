@@ -1,3 +1,9 @@
+<br/>
+<h2 align="center"> :wave: Hi everyone and welcome on my GitHub :shipit: </h2>
+<br/>
+
+:gemini: 
+
 <p align="center">
 	
   <a href="https://www.linkedin.com/in/vladromanciuc/">
