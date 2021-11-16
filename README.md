@@ -16,7 +16,7 @@
 		<img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=plastic&logo=visual%20studio&logoColor=white" />
 	</a>
   
-	<a href="">
+  <a href="">
 		<img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white" />
 	</a>
 	  
