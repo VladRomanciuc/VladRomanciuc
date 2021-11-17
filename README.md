@@ -1,7 +1,7 @@
 <br/>
 <h2 align="center">Hi  :wave: and welcome on my GitHub :shipit: </h2>
 
-<p> :heavy_check_mark: Interested in :wrench: Business Analysis, :chart_with_upwards_trend: Data Science Methodologies with a drop of :droplet: Design Thinking & :cocktail: UX blended.
+<p> :heavy_check_mark: Interested in :wrench: Business Analysis, based on :chart_with_upwards_trend: Data Science Methodologies with a drop of :droplet: Design Thinking & :cocktail: blend of UX.
 
 </p>
 
