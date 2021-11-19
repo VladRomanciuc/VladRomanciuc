@@ -9,7 +9,7 @@
 
 | Project Management | Business Analysis | Business Analytics | Data Analytics |
 | ------------------ | ----------------- | ------------------ | -------------- |
-| :paperclip: | | :telephone_receiver: [Call Centre Performance](https://github.com/VladRomanciuc/Personal/blob/1794c21e631142ee01a142937db961bb409d4f92/Business%20intelligence/Call%20Centre/README.md) | | 
+| :paperclip: | | :telephone_receiver: [Call Centre Performance](https://github.com/VladRomanciuc/Personal/blob/402f7b9c8d7a8190c9c330d2e4d5806695def60f/Business%20Intelligence/Call%20Centre/README.md) | | 
 </details>
 
 
