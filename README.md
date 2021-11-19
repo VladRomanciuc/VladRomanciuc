@@ -5,12 +5,11 @@
 
 </p>
 
-<details><summary>:paperclip: Projects</summary>
+<details><summary> Showcase collection </summary> 
 
-| Project management | Business analysis | Business analytics |
-| ------------------ | ----------------- | ------------------ |
-| ![PM Link](/../Personal/Project management) | ![BA Link](Busines analysis) | :telephone_receiver: [Call Centre Performance](https://github.com/VladRomanciuc/Personal/blob/1794c21e631142ee01a142937db961bb409d4f92/Business%20analytics/Call%20Centre/README.md) |
-	
+| Project Management | Business Analysis | Business Analytics | Data Analytics |
+| ------------------ | ----------------- | ------------------ | -------------- |
+| :paperclip: |  | :telephone_receiver: [Call Centre Performance](https://github.com/VladRomanciuc/Personal/blob/1794c21e631142ee01a142937db961bb409d4f92/Business%20analytics/Call%20Centre/README.md) | | 
 </details>
 
 
