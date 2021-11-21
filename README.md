@@ -10,6 +10,7 @@
 | Project Management | Business Analysis | Business Analytics | Data Analytics |
 | ------------------ | ----------------- | ------------------ | -------------- |
 | :paperclip: | | :telephone_receiver: [Call Centre Performance](https://github.com/VladRomanciuc/Personal/blob/402f7b9c8d7a8190c9c330d2e4d5806695def60f/Business%20Intelligence/Call%20Centre/README.md) | | 
+||| :bike: [Bike e-Shop new customer capture](https://github.com/VladRomanciuc/Personal/blob/9a83c14fbd85bfaf0c6a9b96526161f3cb9bf954/Business%20Intelligence/Bike%20E-Shop/README.md) ||
 </details>
 
 
