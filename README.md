@@ -58,6 +58,9 @@
   <a href="https://analytics.google.com/">
 		<img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=plastic&logo=google%20analytics&logoColor=white" />
 	</a>
+   <a href="https://amplitude.com/">
+		<img src="https://img.shields.io/badge/Amplitude-000080?style=plastic&logo=amplitude&logoColor=white" />
+	</a>
 </p>
 <p>:tropical_drink:
   <a href="https://www.figma.com/">
