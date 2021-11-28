@@ -7,10 +7,10 @@
 
 ## Showcase collection
 
-| Project Management | Business Analysis | Business Analytics | Data Analytics |
-| ------------------ | ----------------- | ------------------ | -------------- |
-| :bike: [Bike e-Shop Project](https://github.com/VladRomanciuc/Personal/blob/136524bb81273324549326b6cf7ce1db31846571/Project%20Management/Bike%20e-Shop/README.md) | :bike: [Customer Trends Analytic Report](https://github.com/VladRomanciuc/Personal/blob/6851e81d23e0d98aca5311193112d584db796075/Business%20Analysis/Bike%20E-Shop/README.md) | :telephone_receiver: [Call Centre Performance](https://github.com/VladRomanciuc/Personal/blob/402f7b9c8d7a8190c9c330d2e4d5806695def60f/Business%20Intelligence/Call%20Centre/README.md) | | 
-||| :bike: [Bike e-Shop new customer capture](https://github.com/VladRomanciuc/Personal/blob/9a83c14fbd85bfaf0c6a9b96526161f3cb9bf954/Business%20Intelligence/Bike%20E-Shop/README.md) ||
+| Project Management | Business Analytics | Business Intelligence |
+| ------------------ | ----------------- | ------------------ |
+| :bike: [Bike e-Shop Project](https://github.com/VladRomanciuc/Personal/blob/136524bb81273324549326b6cf7ce1db31846571/Project%20Management/Bike%20e-Shop/README.md) | :bike: [Customer Trends Analytic Report](https://github.com/VladRomanciuc/Personal/blob/6851e81d23e0d98aca5311193112d584db796075/Business%20Analysis/Bike%20E-Shop/README.md) | :telephone_receiver: [Call Centre Performance](https://github.com/VladRomanciuc/Personal/blob/402f7b9c8d7a8190c9c330d2e4d5806695def60f/Business%20Intelligence/Call%20Centre/README.md) |
+| | | :bike: [Bike e-Shop new customer capture](https://github.com/VladRomanciuc/Personal/blob/9a83c14fbd85bfaf0c6a9b96526161f3cb9bf954/Business%20Intelligence/Bike%20E-Shop/README.md) |
 
 
 
