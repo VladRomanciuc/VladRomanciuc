@@ -19,28 +19,27 @@
 
 <h2>:muscle: Activities</h2>
 
-<p>:small_orange_diamond: Currently learning 
-   <a href="https://www.python.org/">
-		<img src="https://img.shields.io/badge/-Python-black?style=plastic&logo=python" />
-	</a>
-   <a href="https://numpy.org/">
-		<img src="https://img.shields.io/badge/-NumPy-4D77CF?style=plastic&logo=numpy" />
-	</a>
-   <a href="https://matplotlib.org/stable/index.html">
-		<img src="https://img.shields.io/badge/-Matplotlib-11557c?style=plastic&logo=matplotlib" />
-	</a>
-	<a href="https://pandas.pydata.org/">
-		<img src="https://img.shields.io/badge/-Pandas-150458?style=plastic&logo=pandas" />
-	</a>
+<p>:small_orange_diamond: Currently learning paths:
+	
+- [Data Science for Business](https://cognitiveclass.ai/learn/data-science-business)   ![IBM](https://img.shields.io/static/v1?style=plastic&message=IBM&color=gray&logo=IBM&logoColor=FFFFFF&label=)
+
+- [Data Analyst Associate](https://docs.microsoft.com/en-us/learn/certifications/data-analyst-associate/?azure-portal=true)  ![Microsoft](https://img.shields.io/static/v1?style=plastic&message=Microsoft&color=2D9FD9&logo=Microsoft&logoColor=FFFFFF&label=)
+
+- [Google Cloud Learning](https://www.cloudskillsboost.google/paths/8)   ![Google Cloud](https://img.shields.io/static/v1?style=plastic&message=Google+Cloud&color=4285F4&logo=Google+Cloud&logoColor=FFFFFF&label=)
+   
+	
+	
 	
 </p>
-<p> :small_blue_diamond: On the way
-    <a href="https://golang.org/">
+<p> :small_blue_diamond: Interested in:
+	
+- Reactive System, Microservices with <a href="https://golang.org/">
 		<img src="https://img.shields.io/badge/-Golang-00ADD8?style=plastic&logo=go&logoColor=ffffff" />
-	</a>	
-    <a href="https://dart.dev/">
+	</a>
+	
+- Web Apps with <a href="https://dart.dev/">
 		<img src="https://img.shields.io/badge/-Dart-0075BA?style=plastic&logo=dart" />
-	</a>	
+	</a>
     <a href="https://flutter.dev/">
 		<img src="https://img.shields.io/badge/-Flutter-blue?style=plastic&logo=flutter" />
 	</a>	
@@ -84,8 +83,8 @@
    <a href="https://code.visualstudio.com/">
 		<img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=plastic&logo=visual%20studio%20code&logoColor=white" />
 	</a>
-   <a href="https://jupyter.org/">
-		<img src="https://img.shields.io/badge/-Jupyter%20Lab-black?style=plastic&logo=jupyter" />
+   <a href="https://www.office.com/">
+   		<img src="https://img.shields.io/static/v1?style=plastic&message=Microsoft+Office&color=D83B01&logo=Microsoft+Office&logoColor=FFFFFF&label=" />
 	</a>
 </p>
 <p>:candy:
@@ -93,6 +92,33 @@
 		<img src="https://img.shields.io/badge/-Google-white?style=plastic&logo=googlechrome" />
 	</a>
 </p>
+
+
+<details><summary>Reading shelf</summary>
+
+#### Books
+- [ISE Strategic Management of Technological Innovation by Melissa A. Schilling](https://www.amazon.co.uk/Strategic-Management-Technological-Innovation-Schilling/dp/1260565793/ref=bmx_dp_1g8vqumo_17/257-6718943-0888056?pd_rd_w=kpxgl&pf_rd_p=d15de334-46de-4f64-bc99-dbe037e3c10f&pf_rd_r=KKJT8D151VYSNTK71FVD&pd_rd_r=2bb61dd0-3123-4b03-bb38-2fced0b031be&pd_rd_wg=Qxn49&pd_rd_i=1260565793&psc=1&fbclid=IwAR223bGF4CYOVU1tMuzqsWyo7YoZxBJYBvSkcVJoUATODvkQkjf-ffiPi_c)
+- [The business analyst’s handbook by Howard Podeswa](https://e-book.business/the-business-analysts-handbook/?fbclid=IwAR3ubxCWwSOH3RT7vjsI2MPD9syTaFuLI4LYATwiCb7agRP7Z7mTOCf8CN8)
+- [Business Analysis Techniques: 123 essential tools for success](https://www.amazon.co.uk/Business-Analysis-Techniques-essential-success/dp/1780175698/ref=asc_df_1780175698/?tag=googshopuk-21&linkCode=df0&hvadid=535116224368&hvpos=&hvnetw=g&hvrand=12412928849686109844&hvpone=&hvptwo=&hvqmt=&hvdev=m&hvdvcmdl=&hvlocint=&hvlocphy=9046884&hvtargid=pla-1391805790481&psc=1&th=1&fbclid=IwAR26xe63-dWC2LZBtiv3IpbulT0pIUCWO1zYxu-iqPo0rHtktuiJUImAHXI)
+- [Hooked: How to Build Habit-Forming Products by Nir Eyal](https://www.amazon.co.uk/dp/1591847788?tag=nir00-21&geniuslink=true)
+
+#### Articles
+- [Why Product Analytics Is More Important Now Than Ever Before](https://craptalks.com/blog/2021/05/why-product-analytics-is-more-important-now-than-ever-before/)
+- [Product Analytics is the New Standard for Digital Measurement by JJ Johnson](https://amplitude.com/blog/harvard-business-review-digital-disruption?utm_source=tpf&utm_medium=Events&utm_campaign=pac)
+- [Product KPIs and metrics that every product manager should know by Zafeer Rais](https://bootcamp.uxdesign.cc/product-kpis-and-metrics-that-every-product-manager-should-know-8b5b46ed767d)
+- [Product-led growth: how to deliver more of what customers want by Malte Scholz](https://www.globalbankingandfinance.com/product-led-growth-how-to-deliver-more-of-what-customers-want/)
+- [What every product manager needs to know about product analytics](https://www.atlassian.com/agile/product-management/product-analytics)
+- [How cognitive bias works in decision making for Product Analysts](https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg)
+- [Creating a Measurement Plan](https://signalinc.com/creating-measurement-plan/)
+- [The Amplitude Guide to Product Analytics](https://amplitude.com/product-analytics)
+- [Web Analytics vs. Product Analytics Podcast](https://dataled.academy/podcast/web-analytics-vs-product-analytics/)
+- [Measurement vs. Metrics in Product Analytics](https://amplitude.com/blog/measurement-metrics)
+- [North Star Metric-Measure the Right Thing](https://productcoalition.com/north-star-metric-measure-the-right-thing-294b6f4b6f9)
+- [Choosing your North Star metric](https://future.a16z.com/north-star-metrics/)
+- [Leading vs lagging indicators: what are they, and why do they matter for your business?](https://www.geckoboard.com/blog/leading-lagging-or-lost-how-to-find-the-right-key-performance-indicators-for-your-sales-team/)
+- [SaaS Metrics 2.0 – A Guide to Measuring and Improving what Matters](https://www.forentrepreneurs.com/saas-metrics-2/)
+	
+</details>
 
 <br/>
 <p> :busts_in_silhouette: Conect with me:
