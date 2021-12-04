@@ -101,6 +101,7 @@
 - [The business analyst’s handbook by Howard Podeswa](https://e-book.business/the-business-analysts-handbook/?fbclid=IwAR3ubxCWwSOH3RT7vjsI2MPD9syTaFuLI4LYATwiCb7agRP7Z7mTOCf8CN8)
 - [Business Analysis Techniques: 123 essential tools for success](https://www.amazon.co.uk/Business-Analysis-Techniques-essential-success/dp/1780175698/ref=asc_df_1780175698/?tag=googshopuk-21&linkCode=df0&hvadid=535116224368&hvpos=&hvnetw=g&hvrand=12412928849686109844&hvpone=&hvptwo=&hvqmt=&hvdev=m&hvdvcmdl=&hvlocint=&hvlocphy=9046884&hvtargid=pla-1391805790481&psc=1&th=1&fbclid=IwAR26xe63-dWC2LZBtiv3IpbulT0pIUCWO1zYxu-iqPo0rHtktuiJUImAHXI)
 - [Hooked: How to Build Habit-Forming Products by Nir Eyal](https://www.amazon.co.uk/dp/1591847788?tag=nir00-21&geniuslink=true)
+- [Lean Analytics: Use Data to Build a Better Startup Faster](https://pdfroom.com/books/lean-analytics-use-data-to-build-a-better-startup-faster/1j5KLyZGdKr)
 
 #### Articles
 - [Why Product Analytics Is More Important Now Than Ever Before](https://craptalks.com/blog/2021/05/why-product-analytics-is-more-important-now-than-ever-before/)
