@@ -106,6 +106,7 @@
 - [Why Product Analytics Is More Important Now Than Ever Before](https://craptalks.com/blog/2021/05/why-product-analytics-is-more-important-now-than-ever-before/)
 - [Product Analytics is the New Standard for Digital Measurement by JJ Johnson](https://amplitude.com/blog/harvard-business-review-digital-disruption?utm_source=tpf&utm_medium=Events&utm_campaign=pac)
 - [Product KPIs and metrics that every product manager should know by Zafeer Rais](https://bootcamp.uxdesign.cc/product-kpis-and-metrics-that-every-product-manager-should-know-8b5b46ed767d)
+- [Behavioral Product Manager](https://medium.com/behavioral-economics-1/move-over-product-manager-introducing-the-behavioral-product-manager-ab8612f45ae8)
 - [Product-led growth: how to deliver more of what customers want by Malte Scholz](https://www.globalbankingandfinance.com/product-led-growth-how-to-deliver-more-of-what-customers-want/)
 - [What every product manager needs to know about product analytics](https://www.atlassian.com/agile/product-management/product-analytics)
 - [How cognitive bias works in decision making for Product Analysts](https://upload.wikimedia.org/wikipedia/commons/6/65/Cognitive_bias_codex_en.svg)
