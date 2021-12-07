@@ -119,6 +119,10 @@
 - [Choosing your North Star metric](https://future.a16z.com/north-star-metrics/)
 - [Leading vs lagging indicators: what are they, and why do they matter for your business?](https://www.geckoboard.com/blog/leading-lagging-or-lost-how-to-find-the-right-key-performance-indicators-for-your-sales-team/)
 - [SaaS Metrics 2.0 – A Guide to Measuring and Improving what Matters](https://www.forentrepreneurs.com/saas-metrics-2/)
+- [Correlation vs Causation: Understand the Difference for Your Product](https://amplitude.com/blog/causation-correlation)
+- [Shipping Your Product in Iterations: A Guide to Hypothesis Testing](https://www.toptal.com/product-managers/data/product-hypothesis-testing)
+- [Building a Culture of Experimentation](https://hbr.org/2020/03/building-a-culture-of-experimentation)
+- [What Will “Analyst 2.0” Look Like?](https://towardsdatascience.com/analyst-2-0-3c10daf124c8)
 	
 </details>
 
