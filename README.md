@@ -123,6 +123,7 @@
 - [Shipping Your Product in Iterations: A Guide to Hypothesis Testing](https://www.toptal.com/product-managers/data/product-hypothesis-testing)
 - [Building a Culture of Experimentation](https://hbr.org/2020/03/building-a-culture-of-experimentation)
 - [What Will “Analyst 2.0” Look Like?](https://towardsdatascience.com/analyst-2-0-3c10daf124c8)
+- [UX case studies](https://growth.design/case-studies)
 	
 </details>
 
