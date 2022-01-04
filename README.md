@@ -1,7 +1,7 @@
 <br/>
 <h2 align="center">Hi  :wave: and welcome on my GitHub :shipit: </h2>
 
-<p> :heavy_check_mark: Interested in :wrench: Business Analytics, based on :chart_with_upwards_trend: Data Science Methodologies with a drop of :droplet: Design Thinking & :cocktail: blend of UX.
+<p> :heavy_check_mark: Interested in :wrench: Business Analysis, based on :chart_with_upwards_trend: Data Science Methodologies with a drop of :droplet: Design Thinking & :cocktail: blend of UX.
 
 </p>
 
@@ -19,15 +19,13 @@
 
 <h2>:muscle: Activities</h2>
 
-<p>:small_orange_diamond: Currently learning paths:
-	
-- [Data Science for Business](https://cognitiveclass.ai/learn/data-science-business)   ![IBM](https://img.shields.io/static/v1?style=plastic&message=IBM&color=gray&logo=IBM&logoColor=FFFFFF&label=)
+Following Product School events and bootcamps.
 
-- [Data Analyst Associate](https://docs.microsoft.com/en-us/learn/certifications/data-analyst-associate/?azure-portal=true)  ![Microsoft](https://img.shields.io/static/v1?style=plastic&message=Microsoft&color=2D9FD9&logo=Microsoft&logoColor=FFFFFF&label=)
-
-- [Google Cloud Learning](https://www.cloudskillsboost.google/paths/8)   ![Google Cloud](https://img.shields.io/static/v1?style=plastic&message=Google+Cloud&color=4285F4&logo=Google+Cloud&logoColor=FFFFFF&label=)
-   
-	
+Currently learning paths:
+- Improving Finance and Accounting Skills, a LinkedIn Learning path;
+- Data Model for a Full-Stack Application with DataStax;
+- Real-Time Data Ingestion with Snowflake;
+- Microsoft Azure and Google Cloud Learning.
 	
 	
 </p>
