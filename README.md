@@ -138,7 +138,7 @@
   <a href="mailto:vladislavromanciuc@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" />
 	</a>
-  <a href="https://github.com/VladRomanciuc/VladRomanciuc/blob/144caf88aa435bf30246a46ed107db4a8be0a891/Vlad%20CV%20full%20log.pdf">
+  <a href="https://github.com/VladRomanciuc/VladRomanciuc/blob/2cbadb2200761911f3ae92f1c78a592acf1fd0a1/Vlad%20CV%20full%20log.pdf">
 		<img src="https://img.shields.io/static/v1?style=plastic&message=FullCV&color=172B4D&logo=Opsgenie&logoColor=FFFFFF&label=" />
 	</a>
 </p>
