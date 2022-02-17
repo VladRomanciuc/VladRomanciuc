@@ -136,7 +136,7 @@ Currently learning paths:
   <a href="mailto:vladislavromanciuc@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white" />
 	</a>
-  <a href="https://github.com/VladRomanciuc/VladRomanciuc/blob/ebbc00648ad4d3c4a3f4d22822165a3bae5f4a86/Vlad%20CV%20full%20log.pdf">
-		<img src="https://img.shields.io/static/v1?style=plastic&message=FullCV&color=172B4D&logo=Opsgenie&logoColor=FFFFFF&label=" />
+  <a href="https://github.com/VladRomanciuc/VladRomanciuc/blob/bb8408f52bbe321cceefbb64bf785078a663a345/Vlad%20CV%20full%20log.pdf">
+		<img src="https://img.shields.io/static/v1?style=plastic&message=Resume&color=172B4D&logo=Opsgenie&logoColor=FFFFFF&label=" />
 	</a>
 </p>
