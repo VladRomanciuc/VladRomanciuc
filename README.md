@@ -1,7 +1,7 @@
 <br/>
 <h2 align="center">Hi  :wave: and welcome on my GitHub :shipit: </h2>
 
-<p> :heavy_check_mark: Interested in :wrench: Business Analysis, based on :chart_with_upwards_trend: Data Science Methodologies with a drop of :droplet: Design Thinking & :cocktail: blend of UX.
+<p> :heavy_check_mark: Interested in :wrench: Business Intelligence/Processes Reengineering, based on :chart_with_upwards_trend: Data/Cloud Solutions with a drop of :droplet: Design Thinking & :cocktail: blend of UX.
 
 </p>
 
@@ -19,13 +19,14 @@
 
 <h2>:muscle: Activities</h2>
 
-Following Product School events and bootcamps.
+- AWS re/Start Program
 
 Currently learning paths:
-- Improving Finance and Accounting Skills, a LinkedIn Learning path;
-- Data Model for a Full-Stack Application with DataStax;
-- Real-Time Data Ingestion with Snowflake;
-- Microsoft Azure and Google Cloud Learning.
+- AWS and CGP developer paths;
+- freeCodeCamp – Front-end and back-end development;
+- UC Irvine – Programming with Google Go;
+- UC San Diego – Interaction Design.
+
 	
 	
 </p>
