@@ -1,7 +1,7 @@
 <br/>
 <h2 align="center">Hi  :wave: and welcome on my GitHub :shipit: </h2>
 
-<p> :heavy_check_mark: Interested in :wrench: Business Intelligence/Processes Reengineering, based on :chart_with_upwards_trend: Data/Cloud Solutions with a drop of :droplet: Design Thinking & :cocktail: blend of UX.
+<p> :heavy_check_mark: Interested in :wrench: experimentation and adoption, based on :chart_with_upwards_trend: serverless approach to a range of solutions with a drop of :droplet: Design Thinking & :cocktail: blend of UX to reengineering the old solutions.
 
 </p>
 
@@ -12,16 +12,18 @@
 <h2>:muscle: Activities</h2>
 
 - AWS re/Start Program
+- Teaching kids to code
 
-Currently learning paths:
-- AWS and CGP developer paths;
-- freeCodeCamp – Front-end and back-end development;
-- UC Irvine – Programming with Google Go;
+Currently learning:
+- AWS Cloud Solutions Architect and AWS CDK
+- Azure Data Fundamentals (DP-900)
+- freeCodeCamp – Front and back-end API development with Node.js
+- UC Irvine – Programming with Google Go
 
 	
 	
 </p>
-<p> :small_blue_diamond: Interested in:
+<p> :small_blue_diamond: Specials:
 	
 - Reactive System, Microservices with <a href="https://golang.org/">
 		<img src="https://img.shields.io/badge/-Golang-00ADD8?style=plastic&logo=go&logoColor=ffffff" />
@@ -35,6 +37,11 @@ Currently learning paths:
 	</a>	
 
 <p>:small_orange_diamond: Looking to expand my portfolio and collaborate :dancers:</p>
+
+
+<h2>Wall of achievement</h2>
+	<p>Coming soon......</p>
+	
 <h2>:fork_and_knife: Tools</h2>
 <p>:hamburger:
   <a href="https://powerbi.microsoft.com/en-us/">
