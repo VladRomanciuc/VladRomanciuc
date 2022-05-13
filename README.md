@@ -87,15 +87,15 @@
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladRomanciuc&layout=compact&theme=dracula&show_icons=true&no-frame=true)](https://github.com/VladRomanciuc/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladRomanciuc&layout=compact&theme=buefy&show_icons=true&no-frame=true)](https://github.com/VladRomanciuc/github-readme-stats)
 
 
-![Vlads's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladRomanciuc&layout=compact&theme=dracula&hide=stars,prs,issues,contribs&no-frame=true)
+![Vlads's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladRomanciuc&layout=compact&theme=buefy&hide=stars,prs,issues,contribs&no-frame=true)
 
 </div>
 
 <div align="right">
 	
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vladromanciuc&theme=dracula&rank=A,SECRET"/></a></p>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vladromanciuc&theme=buefy&rank=A,SECRET"/></a></p>
 
 </div>
